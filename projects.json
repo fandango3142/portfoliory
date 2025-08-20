@@ -1,0 +1,77 @@
+[
+  {
+    "title": "WebEngage Labs – Gamified Templates (Spin, Scratch, Catch)",
+    "period": "2025",
+    "role": "Product Manager / Frontend",
+    "summary": "Prototype initiative to ship plug-and-play HTML/CSS/JS games marketers can configure and publish via WebEngage.",
+    "highlights": [
+      "Template picker in React with live preview and single-file HTML export",
+      "Configurable rewards, probabilities, and data capture screens",
+      "Goal: increase campaign CTR and lead capture with lightweight experiences"
+    ],
+    "links": [
+      {"label": "Spec / Prototype notes", "url": "#projects"}
+    ],
+    "tags": ["Product Strategy", "Prototyping", "Frontend", "Martech"]
+  },
+  {
+    "title": "Custom Entities in WebEngage CDPx",
+    "period": "2025",
+    "role": "Product",
+    "summary": "Knowledge base and product flows for modeling non-user data (e.g., Policies, Claims) to power segmentation & personalization.",
+    "highlights": [
+      "Authored examples-first docs and error copy",
+      "Proposed Sync History and Namespaces improvements"
+    ],
+    "links": [{"label": "Docs draft", "url": "#projects"}],
+    "tags": ["Docs", "CDP", "Information Architecture"]
+  },
+  {
+    "title": "Reorder & Replenishment Strategy",
+    "period": "2025",
+    "role": "Product",
+    "summary": "Recommendation strategy with configurable reorder date logic and targeting windows to drive repeat purchases.",
+    "highlights": [
+      "Static or catalog-derived reorder date options",
+      "Flexible pre/post targeting window configuration"
+    ],
+    "links": [{"label": "Strategy note", "url": "#projects"}],
+    "tags": ["Retention", "Recommendations"]
+  },
+  {
+    "title": "AI Virtual Assistant (EN Bot) vision",
+    "period": "2024",
+    "role": "Product",
+    "summary": "Concept for an omnipresent in-app assistant to help users discover content, generate assets, and play mini-games.",
+    "highlights": [
+      "Subscriber-only GenAI features for image/voice/video",
+      "Collapsible UI, context-aware prompts"
+    ],
+    "links": [{"label": "Pitch deck", "url": "#projects"}],
+    "tags": ["AI", "Vision", "OTT"]
+  },
+  {
+    "title": "Content Hosting Integrations",
+    "period": "2023–2024",
+    "role": "Product Manager",
+    "summary": "Integrated content hosting with 12+ global partners under XFinite Technologies (Eros) – managing PRDs and partner proposals.",
+    "highlights": [
+      "Partner management & solution evaluation",
+      "Set up AI-driven content generation pipeline"
+    ],
+    "links": [{"label": "Overview", "url": "#projects"}],
+    "tags": ["Partnerships", "OTT", "AI"]
+  },
+  {
+    "title": "Natural-Language Generative Platform",
+    "period": "2021–2023",
+    "role": "Solution Leader (Product Manager)",
+    "summary": "Led interface for a platform to build enterprise solutions via natural language; contributed to $56M+ revenue.",
+    "highlights": [
+      "Iterated 4 products with 200+ features",
+      "Drag-and-drop UI design tool → 84% faster integration"
+    ],
+    "links": [{"label": "Case study", "url": "#projects"}],
+    "tags": ["Platform", "UX", "B2B"]
+  }
+]
